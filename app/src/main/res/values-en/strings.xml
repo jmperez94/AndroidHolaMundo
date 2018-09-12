@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txtCentral">My first App</string>
+    <string name="bienvenido">Welcome!!!</string>
+    <string name="btnSaludar">Greet</string>
+    <string name="toast_saludo">Hi!!!</string>
+    <string name="toast_despedida">Bye!!!</string>
+</resources>
